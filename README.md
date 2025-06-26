@@ -37,18 +37,15 @@ controle-gastos/
 
 ## 📦 Instalação
 
-#Clone o repositório
-git clone https://github.com/seu-usuario/controle-gastos.git
-
-#Acesse a pasta
-cd controle-gastos
-
-#Instale as dependências
-npm install
-
-#Inicie o servidor de desenvolvimento
-npm run dev
-Acesse em http://localhost:5173
+    Clone o repositório - git clone https://github.com/seu-usuario/controle-gastos.git
+    
+    Acesse a pasta - cd controle-gastos
+    
+    Instale as dependências - npm install
+    
+    Inicie o servidor de desenvolvimento - npm run dev
+    
+    Acesse em http://localhost:5173
 
 
 ## 📷 Preview
@@ -57,7 +54,7 @@ Acesse em http://localhost:5173
 
 📌 Aprendizados
 
-O projeto foi construído como parte da minha evolução prática em React, Os principais focos foram:
+O projeto foi construído como parte da minha evolução prática em React. Os principais focos foram:
 
     Estruturação de componentes reutilizáveis
 
