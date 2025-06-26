@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.app-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.header {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px 8px 0 0;
+}
+.form-gasto {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.form-gasto input,
+.form-gasto button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-gasto button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.form-gasto button:hover {
+  background-color: #45a049;
+}
+.lista-gastos {
+  margin-top: 30px;
+}
+
+.lista-gastos ul {
+  list-style: none;
+  padding: 0;
+}
+
+.lista-gastos li {
+  background: #f9f9f9;
+  margin-bottom: 10px;
+  padding: 12px;
+  border-left: 4px solid #4caf50;
+  border-radius: 4px;
+}
+.resumo {
+  margin-top: 30px;
+  background: #e8f5e9;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #c8e6c9;
+}
+
+.resumo ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.resumo li {
+  padding: 4px 0;
+}
+.grafico {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #fff3e0;
+  border-radius: 8px;
+  border: 1px solid #ffe0b2;
+}
+.lista-gastos li button {
+  margin-top: 6px;
+  margin-left: 10px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.lista-gastos li button:hover {
+  background-color: #d32f2f;
+}
+
+
