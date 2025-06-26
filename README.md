@@ -37,16 +37,16 @@ controle-gastos/
 
 ## 📦 Instalação
 
-# Clone o repositório
+#Clone o repositório
 git clone https://github.com/seu-usuario/controle-gastos.git
 
-# Acesse a pasta
+#Acesse a pasta
 cd controle-gastos
 
-# Instale as dependências
+#Instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
+#Inicie o servidor de desenvolvimento
 npm run dev
 Acesse em http://localhost:5173
 
