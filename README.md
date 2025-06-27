@@ -51,6 +51,7 @@ controle-gastos/
 ## 📷 Preview
 
 ![preview](./screenshot1.png)
+![preview](./screenshot2.png)
 
 📌 Aprendizados
 
