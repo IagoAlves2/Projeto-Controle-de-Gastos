@@ -50,7 +50,7 @@ controle-gastos/
 
 ## 📷 Preview
 
-![preview](./screenshot1.png) (./screenshot2.png)  
+![preview](./screenshot1.png)
 
 📌 Aprendizados
 
